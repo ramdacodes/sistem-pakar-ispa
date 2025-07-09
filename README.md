@@ -114,7 +114,7 @@ File `rules.json` berisi **aturan diagnosis penyakit** dalam bentuk struktur JSO
 ```text
 LAPORAN HASIL DIAGNOSA ISPA
 
-Nama Pasien     : Ferdy Rahmat Ramdani Ramdani
+Nama Pasien     : Ferdy Rahmat Ramdani
 Gejala          : demam, batuk, pilek
 Diagnosa        : ISPA Ringan
 Keparahan Fuzzy : Sedang (57.4)
