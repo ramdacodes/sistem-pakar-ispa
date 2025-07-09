@@ -122,13 +122,3 @@ Saran           : Istirahat cukup, perbanyak minum, konsultasi jika tak membaik
 ```
 
 ---
-
-## 📎 Catatan Tambahan
-
-- Program bisa dikembangkan menjadi aplikasi mobile/web
-- Rule di `rules.json` bisa ditambahkan sesuai kebutuhan
-- Sistem fuzzy bisa dikembangkan untuk mempertimbangkan lebih banyak faktor (misalnya usia pasien)
-
----
-
-Kalau kamu mau, saya juga bisa bantu export ini ke file `README.md` atau `deskripsi_proyek.md`. Mau dibuatkan juga?
