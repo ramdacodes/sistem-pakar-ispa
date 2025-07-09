@@ -1,0 +1,32 @@
+[
+  {
+    "conditions": ["demam", "batuk", "pilek"],
+    "diagnosis": "ISPA Ringan",
+    "advice": "Perbanyak istirahat, konsumsi air hangat, dan obat pereda demam."
+  },
+  {
+    "conditions": ["demam", "batuk", "sesak napas"],
+    "diagnosis": "ISPA Sedang",
+    "advice": "Segera konsultasi ke dokter jika gejala tidak membaik dalam 3 hari."
+  },
+  {
+    "conditions": ["demam", "batuk", "sakit tenggorokan", "pilek"],
+    "diagnosis": "ISPA Sedang",
+    "advice": "Minum obat sesuai gejala dan jaga kebersihan lingkungan."
+  },
+  {
+    "conditions": ["demam", "batuk", "pilek", "sesak napas", "sakit kepala"],
+    "diagnosis": "ISPA Berat",
+    "advice": "Segera periksa ke rumah sakit untuk penanganan lebih lanjut."
+  },
+  {
+    "conditions": ["batuk", "pilek"],
+    "diagnosis": "Kemungkinan Flu Ringan",
+    "advice": "Perbanyak istirahat dan konsumsi vitamin C."
+  },
+  {
+    "conditions": ["batuk", "sakit tenggorokan"],
+    "diagnosis": "Infeksi Saluran Pernapasan Atas",
+    "advice": "Minum air hangat, hindari makanan berminyak, dan jaga pola makan."
+  }
+]
